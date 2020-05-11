@@ -1,8 +1,8 @@
 # RHEL--project
-(A) Local host operations*  
-(B)Remote host operations*  
+(A) Local host operations$  
+(B)Remote host operations$  
 _____________________________________________________  
-*  
+$  
 1.General operations%             |Shreya Mishra  
 2.File handling%                  |Mekhla Upadhyay  
 3.Server handling%                |Abhishek Sharma  
