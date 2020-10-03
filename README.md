@@ -6,7 +6,7 @@ $
 1.General operations%             |Shreya Mishra  
 2.File handling%                  |Mekhla Upadhyay  
 3.Server handling%                |Abhishek Sharma  
-4.Docker handling%                |Radha Kumari  
+4.Docker handling%                |Kumari Radha
 5.App installation and handling%  |Amil Utkarsh Gupta  
 6.Hard disk partition%            |Parnika Katiyar  
 (Don't mention the contributors' names in the code,they are mentioned for reference purposes only)   
